@@ -1,4 +1,4 @@
-TVPage Developer Test
+Bookstore Developer Test
 ===========================
 
 This is a skeleton of a simple site made for you to show us your HTML, CSS & Javascript & PHP
